@@ -1,3 +1,4 @@
 ---
-title: Welcome to my blog!
+title: MY FIRST WEBSITE
 ---
+coding is hard ngl
